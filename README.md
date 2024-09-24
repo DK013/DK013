@@ -10,7 +10,7 @@ I'm Deep Chakraborty, a developer with over 12 years of experience in the tech w
 - 🚀  I'm currently working on [KT Messenger](http://ktmessenger.com/)
 - 🧠  I'm learning the core fundamentals of LLMs
 - 🤝  I'm open to collaborating on cool projects
-- ⚡  I'm secretly an alien....but don't tell anyone
+- ⚡  I'm secretly a martian robot....but don't tell anyone 🤫
 
 ### Skills
 
@@ -80,6 +80,20 @@ I'm Deep Chakraborty, a developer with over 12 years of experience in the tech w
       </picture>
       </a></p>
 
+### Hire Me
+
+<p align="left">
+  <a href="https://www.peopleperhour.com/hire/me/1183545448/11529772?next=https%3A%2F%2Fwww.peopleperhour.com%2Ffreelancer%2Ftechnology-programming%2Fdeep-chakraborty-sr-full-stack-developer-zzqynjjy%3Fref%3Dhireme" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img001.prntscr.com/file/img001/w6RykDUIQlO6evJ62rZqJg.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://img001.prntscr.com/file/img001/XuJzh9XQSae50aq8GNUgJw.png" />
+      <img src="https://img001.prntscr.com/file/img001/XuJzh9XQSae50aq8GNUgJw.png" />
+    </picture>
+  </a>
+</p>
+
 ### Support Me
 
-<ul style="list-style: none; margin: 0;"><li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/xelcior"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li></ul>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/xelcior"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+</p>
