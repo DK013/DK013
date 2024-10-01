@@ -1,6 +1,6 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Deep Chakraborty
 
-## Developer & Entrepreneur
+## Developer & Entrepreneur  [![](https://visitcount.itsvg.in/api?id=DK013&label=Profile%20Views&color=12&pretty=true)](https://visitcount.itsvg.in)
 
 I'm Deep Chakraborty, a developer with over 12 years of experience in the tech world. I've got my hands dirty with JavaScript, TypeScript, ReactJs, NodeJS, C#, PHP, Python, and more. I'm all about crafting seamless full-stack solutions, whether it's on the frontend or backend. I've played with everything from PWA to Electron, and I'm comfortable with both SQL and NoSQL databases. In the cloud, I'm a pro with AWS and Azure, setting up servers and handling complex infrastructures like it's a puzzle. AI and machine learning? Been there, done that with PyTorch and Transformers. I enjoy adding smart features to applications to make them stand out. My journey has covered web and mobile apps, AI systems, and everything in between. I speak English, Bengali, Hindi, and am picking up Japanese—because why not? For a deeper dive into what I do, check out my CodersRank profile
 
