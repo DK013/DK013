@@ -5,10 +5,9 @@
 I'm Deep Chakraborty, a developer with over 12 years of experience in the tech world. I've got my hands dirty with JavaScript, TypeScript, ReactJs, NodeJS, C#, PHP, Python, and more. I'm all about crafting seamless full-stack solutions, whether it's on the frontend or backend. I've played with everything from PWA to Electron, and I'm comfortable with both SQL and NoSQL databases. In the cloud, I'm a pro with AWS and Azure, setting up servers and handling complex infrastructures like it's a puzzle. AI and machine learning? Been there, done that with PyTorch and Transformers. I enjoy adding smart features to applications to make them stand out. My journey has covered web and mobile apps, AI systems, and everything in between. I speak English, Bengali, Hindi, and am picking up Japanese—because why not? For a deeper dive into what I do, check out my [CodersRank profile](https://profile.codersrank.io/user/dk013)
 
 - 🌍  I'm based in Kolkata WB, India
-- 🖥️  See my portfolio at [Westenets](http://westenets.com)
+- 🧠  I'm an ML/AI Engineer with 13 years of experience
 - ✉️  You can contact me at [chakraborty.deep013@gmail.com](mailto:chakraborty.deep013@gmail.com)
 - 🚀  I'm currently working on [KT Messenger](http://ktmessenger.com/)
-- 🧠  I'm learning the core fundamentals of LLMs
 - 🤝  I'm open to collaborating on cool projects
 - ⚡  I'm secretly a martian robot....but don't tell anyone 🤫
 
