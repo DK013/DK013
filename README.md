@@ -92,15 +92,11 @@ I work end-to-end — frontend frameworks, backend microservices, real-time syst
       </picture>
       </a></p>
 
-### Hire Me
+### Talk to Me
 
 <p align="left">
-  <a href="https://www.peopleperhour.com/hire/me/1183545448/11529772?next=https%3A%2F%2Fwww.peopleperhour.com%2Ffreelancer%2Ftechnology-programming%2Fdeep-chakraborty-sr-full-stack-developer-zzqynjjy%3Fref%3Dhireme" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://img001.prntscr.com/file/img001/w6RykDUIQlO6evJ62rZqJg.png" />
-      <source media="(prefers-color-scheme: light)" srcset="https://img001.prntscr.com/file/img001/XuJzh9XQSae50aq8GNUgJw.png" />
-      <img src="https://img001.prntscr.com/file/img001/XuJzh9XQSae50aq8GNUgJw.png" />
-    </picture>
+  <a href="mailto:chakraborty.deep013@gmail.com" target="_blank" rel="noreferrer">
+    chakraborty.deep013@gmail.com
   </a>
 </p>
 
